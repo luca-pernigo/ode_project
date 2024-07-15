@@ -1,5 +1,1 @@
-# Numerical Project: Implementation of Runge-Kutta methods
-
-In this numerical project, we explore the implementation aspects of Runge--Kutta methods. The project is structured in three parts. Firstly, we delve into the implementation of collocation methods of arbitrary order, with a particular emphasis on Gauss and Radau methods. Secondly, we incorporate time step adaptivity into our code by employing the embedded methods strategy. Thirdly, we investigate various approaches for solving the Runge--Kutta nonlinear system, considering factors such as Newton and quasi-Newton algorithms, direct and iterative solvers, Jacobian construction, matrix-free methods, and the inclusion or exclusion of preconditioners. Throughout these explorations, we conduct numerical efficiency experiments on problems of diverse nature, evaluating the effectiveness of different approaches. By the end of the project, participants will gain proficiency in implementing and comprehending the aforementioned schemes, enabling them to judiciously select the appropriate nonlinear solver for specific problem contexts.
-
-In this repository we find the project assignments and a template code to complete.
+This project explores various aspects of Runge-Kutta methods.
